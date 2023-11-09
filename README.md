@@ -1,1 +1,1 @@
-# tabelo-exercicio
+# tabela-exercicio
